@@ -1,0 +1,9 @@
+D:\Project\VPSNotification\VPSNotification\bin\Debug\VPSNotification.exe.config
+D:\Project\VPSNotification\VPSNotification\bin\Debug\VPSNotification.exe
+D:\Project\VPSNotification\VPSNotification\bin\Debug\VPSNotification.pdb
+D:\Project\VPSNotification\VPSNotification\obj\Debug\VPSNotification.csprojResolveAssemblyReference.cache
+D:\Project\VPSNotification\VPSNotification\obj\Debug\VPSNotification.Form1.resources
+D:\Project\VPSNotification\VPSNotification\obj\Debug\VPSNotification.Properties.Resources.resources
+D:\Project\VPSNotification\VPSNotification\obj\Debug\VPSNotification.csproj.GenerateResource.Cache
+D:\Project\VPSNotification\VPSNotification\obj\Debug\VPSNotification.exe
+D:\Project\VPSNotification\VPSNotification\obj\Debug\VPSNotification.pdb

@@ -1,0 +1,8 @@
+D:\Project\VPSNotification\VPSNotification\bin\Release\VPSNotification.exe.config
+D:\Project\VPSNotification\VPSNotification\bin\Release\VPSNotification.exe
+D:\Project\VPSNotification\VPSNotification\bin\Release\VPSNotification.pdb
+D:\Project\VPSNotification\VPSNotification\obj\Release\VPSNotification.Form1.resources
+D:\Project\VPSNotification\VPSNotification\obj\Release\VPSNotification.Properties.Resources.resources
+D:\Project\VPSNotification\VPSNotification\obj\Release\VPSNotification.csproj.GenerateResource.Cache
+D:\Project\VPSNotification\VPSNotification\obj\Release\VPSNotification.exe
+D:\Project\VPSNotification\VPSNotification\obj\Release\VPSNotification.pdb
